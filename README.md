@@ -10,7 +10,7 @@ Tài liệu tổng hợp về Web Front-End của khóa D21 CLB Lập trình PTI
 - ✅ Tài liệu tham khảo
 - ✅ Tài liệu hướng dẫn
 # Nội dung tìm hiểu 
-- Lý thuyết cơ bản về HTML: [Web FE - HTML](https://github.com/nickken253/Web-Documents/blob/05c7fe8ed937fbb517d10f64c6e3d7097facf50a/Buoi1)
+- Lý thuyết cơ bản về HTML: [Web FE - HTML](https://github.com/nickken253/Web-Documents/tree/main/Buoi1)
 
 <hr>
 
